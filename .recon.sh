@@ -1,4 +1,4 @@
-##!/bin/bash
+###!/bin/bash
 day=$(date +%A)
 dom=$1
 echo "welcome The quieter you become, the more you are able to hear...  $USER! Today is $day"
